@@ -1,0 +1,1 @@
+A-> ac*b | acb+d| ac-d|acde*de+fg
